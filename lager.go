@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/lexkong/log/lager"
+	"github.com/xm5646/log/lager"
 	"gopkg.in/yaml.v2"
 )
 

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/lexkong/log/lager"
+	"github.com/xm5646/log/lager"
 )
 
 const (
